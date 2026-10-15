@@ -63,7 +63,7 @@ case "$1" in
                   "pick up the cup and put it on the plate" "open the top drawer of the cabinet"; do
       $P scripts/evaluate.py "prompt_${prompt// /_}" clean40 --layouts $T --prompt "$prompt"
     done
-    for d in glazed_rim_porcelain_ramekin akita_black_bowl chocolate_pudding; do
+    for d in glazed_rim_porcelain_ramekin akita_black_bowl cookies; do
       $P scripts/evaluate.py distract_$d clean40 --layouts $T --distractor $d:-0.05:-0.27
     done ;;
 
