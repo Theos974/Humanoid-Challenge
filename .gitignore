@@ -4,3 +4,4 @@ __pycache__/
 *.MOV
 *.mp4
 outputs/
+!media/clips/*.mp4
