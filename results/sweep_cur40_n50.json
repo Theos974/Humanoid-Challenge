@@ -1,0 +1,353 @@
+{
+ "label": "sweep_cur40_n50",
+ "path": "/home/theo-hadji/humanoid/work/runs/cur40/checkpoints/last/pretrained_model",
+ "n": 48,
+ "k": 21,
+ "rate": 0.4375,
+ "ci": [
+  0.30701054640410924,
+  0.5772522849899834
+ ],
+ "n_action_steps": 50,
+ "max_steps": 260,
+ "prompt": "pick up the black bowl and place it on the plate",
+ "distractor": null,
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": true,
+   "steps": 117,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120721",
+   "seed": 1,
+   "success": true,
+   "steps": 113,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "121107",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120855",
+   "seed": 1,
+   "success": true,
+   "steps": 124,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120111",
+   "seed": 1,
+   "success": true,
+   "steps": 110,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120721",
+   "seed": 2,
+   "success": true,
+   "steps": 118,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "121107",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120855",
+   "seed": 2,
+   "success": true,
+   "steps": 105,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120111",
+   "seed": 2,
+   "success": true,
+   "steps": 100,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": true,
+   "steps": 106,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114506",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114454",
+   "seed": 1,
+   "success": true,
+   "steps": 110,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120313",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120454",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114506",
+   "seed": 2,
+   "success": true,
+   "steps": 108,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "114454",
+   "seed": 2,
+   "success": true,
+   "steps": 108,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120313",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "120454",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225932",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "230007",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225720",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "232018",
+   "seed": 0,
+   "success": true,
+   "steps": 105,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225932",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "230007",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225720",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "232018",
+   "seed": 1,
+   "success": true,
+   "steps": 103,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225932",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "230007",
+   "seed": 2,
+   "success": true,
+   "steps": 97,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "225720",
+   "seed": 2,
+   "success": true,
+   "steps": 90,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "232018",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231935",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231530",
+   "seed": 0,
+   "success": true,
+   "steps": 114,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231555",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231754",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231935",
+   "seed": 1,
+   "success": true,
+   "steps": 106,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231530",
+   "seed": 1,
+   "success": true,
+   "steps": 103,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231555",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231754",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231935",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231530",
+   "seed": 2,
+   "success": true,
+   "steps": 114,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231555",
+   "seed": 2,
+   "success": true,
+   "steps": 108,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "231754",
+   "seed": 2,
+   "success": true,
+   "steps": 119,
+   "distractor_max_move_m": null
+  }
+ ]
+}

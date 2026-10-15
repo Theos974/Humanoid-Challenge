@@ -1,0 +1,159 @@
+{
+ "label": "base_zeroshot",
+ "path": "lerobot/smolvla_base",
+ "n": 24,
+ "k": 0,
+ "rate": 0.0,
+ "ci": [
+  0.0,
+  0.13798057582897535
+ ],
+ "n_action_steps": 10,
+ "max_steps": 260,
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120721",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "121107",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120855",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120111",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120721",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "121107",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120855",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120111",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114506",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114454",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120313",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114506",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114454",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120313",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  }
+ ]
+}

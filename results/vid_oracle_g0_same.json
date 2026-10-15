@@ -1,0 +1,126 @@
+{
+ "label": "vid_oracle_g0_same",
+ "path": "oracle",
+ "n": 16,
+ "k": 14,
+ "rate": 0.875,
+ "ci": [
+  0.6397666856325172,
+  0.9650232506629429
+ ],
+ "gated": false,
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": true,
+   "steps": 116,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": true,
+   "steps": 122,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": true,
+   "steps": 170,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": true,
+   "steps": 119,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": true,
+   "steps": 139,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": true,
+   "steps": 113,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": true,
+   "steps": 335,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 411,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "225932",
+   "seed": 0,
+   "success": true,
+   "steps": 145,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "230007",
+   "seed": 0,
+   "success": true,
+   "steps": 125,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "225720",
+   "seed": 0,
+   "success": true,
+   "steps": 168,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "232018",
+   "seed": 0,
+   "success": true,
+   "steps": 122,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231935",
+   "seed": 0,
+   "success": true,
+   "steps": 127,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231530",
+   "seed": 0,
+   "success": true,
+   "steps": 123,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231555",
+   "seed": 0,
+   "success": true,
+   "steps": 150,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231754",
+   "seed": 0,
+   "success": false,
+   "steps": 214,
+   "mean_target_err_cm": 0.0
+  }
+ ]
+}

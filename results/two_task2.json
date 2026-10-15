@@ -1,0 +1,341 @@
+{
+ "label": "two_task2",
+ "path": "/home/theo-hadji/humanoid/work/runs/twotask/checkpoints/last/pretrained_model",
+ "ask": 2,
+ "prompt": "pick up the black bowl and place it next to the plate",
+ "n": 36,
+ "k": 27,
+ "rate": 0.75,
+ "ci": [
+  0.5892923231679658,
+  0.862496761607746
+ ],
+ "on_plate": 0,
+ "at_target": 27,
+ "episodes": [
+  {
+   "tag": "t213425",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.0
+  },
+  {
+   "tag": "t213511",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.018
+  },
+  {
+   "tag": "t213606",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.017
+  },
+  {
+   "tag": "t213647",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.009
+  },
+  {
+   "tag": "t213425",
+   "clip_task": 2,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.005
+  },
+  {
+   "tag": "t213511",
+   "clip_task": 2,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.008
+  },
+  {
+   "tag": "t213606",
+   "clip_task": 2,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.318
+  },
+  {
+   "tag": "t213647",
+   "clip_task": 2,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.004
+  },
+  {
+   "tag": "t213731",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.008
+  },
+  {
+   "tag": "t213806",
+   "clip_task": 2,
+   "seed": 0,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.401
+  },
+  {
+   "tag": "t213844",
+   "clip_task": 2,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.003
+  },
+  {
+   "tag": "a212324",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.001
+  },
+  {
+   "tag": "t213731",
+   "clip_task": 2,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.002
+  },
+  {
+   "tag": "t213806",
+   "clip_task": 2,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.298
+  },
+  {
+   "tag": "t213844",
+   "clip_task": 2,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.006
+  },
+  {
+   "tag": "a212324",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.014
+  },
+  {
+   "tag": "a212422",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.008
+  },
+  {
+   "tag": "a212500",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.006
+  },
+  {
+   "tag": "a212552",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.007
+  },
+  {
+   "tag": "a212637",
+   "clip_task": 1,
+   "seed": 0,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.305
+  },
+  {
+   "tag": "a212422",
+   "clip_task": 1,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.418
+  },
+  {
+   "tag": "a212500",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.001
+  },
+  {
+   "tag": "a212552",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.008
+  },
+  {
+   "tag": "a212637",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.006
+  },
+  {
+   "tag": "a212719",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.013
+  },
+  {
+   "tag": "a212752",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.005
+  },
+  {
+   "tag": "a212829",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.008
+  },
+  {
+   "tag": "a212903",
+   "clip_task": 1,
+   "seed": 0,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.322
+  },
+  {
+   "tag": "a212719",
+   "clip_task": 1,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.404
+  },
+  {
+   "tag": "a212752",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.003
+  },
+  {
+   "tag": "a212829",
+   "clip_task": 1,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.099
+  },
+  {
+   "tag": "a212903",
+   "clip_task": 1,
+   "seed": 1,
+   "success": false,
+   "on_plate": false,
+   "at_target": false,
+   "closest_to_target_m": 0.006
+  },
+  {
+   "tag": "a212934",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.002
+  },
+  {
+   "tag": "a213002",
+   "clip_task": 1,
+   "seed": 0,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.003
+  },
+  {
+   "tag": "a212934",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.007
+  },
+  {
+   "tag": "a213002",
+   "clip_task": 1,
+   "seed": 1,
+   "success": true,
+   "on_plate": false,
+   "at_target": true,
+   "closest_to_target_m": 0.003
+  }
+ ]
+}

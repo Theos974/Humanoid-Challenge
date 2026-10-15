@@ -1,0 +1,63 @@
+{
+ "label": "sanity_orig0",
+ "path": "HuggingFaceVLA/smolvla_libero",
+ "n": 8,
+ "k": 7,
+ "rate": 0.875,
+ "ci": [
+  0.5291051942301385,
+  0.9775830911367039
+ ],
+ "n_action_steps": 10,
+ "max_steps": 280,
+ "episodes": [
+  {
+   "tag": "orig0_0",
+   "seed": 0,
+   "success": true,
+   "steps": 73
+  },
+  {
+   "tag": "orig0_1",
+   "seed": 0,
+   "success": false,
+   "steps": 280
+  },
+  {
+   "tag": "orig0_2",
+   "seed": 0,
+   "success": true,
+   "steps": 72
+  },
+  {
+   "tag": "orig0_3",
+   "seed": 0,
+   "success": true,
+   "steps": 69
+  },
+  {
+   "tag": "orig0_4",
+   "seed": 0,
+   "success": true,
+   "steps": 73
+  },
+  {
+   "tag": "orig0_5",
+   "seed": 0,
+   "success": true,
+   "steps": 63
+  },
+  {
+   "tag": "orig0_6",
+   "seed": 0,
+   "success": true,
+   "steps": 71
+  },
+  {
+   "tag": "orig0_7",
+   "seed": 0,
+   "success": true,
+   "steps": 74
+  }
+ ]
+}

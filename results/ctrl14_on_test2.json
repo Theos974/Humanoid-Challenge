@@ -1,0 +1,303 @@
+{
+ "label": "ctrl14_on_test2",
+ "path": "/home/theo-hadji/humanoid/work/runs/ctrl25/checkpoints/last/pretrained_model",
+ "n": 48,
+ "k": 28,
+ "rate": 0.5833333333333334,
+ "ci": [
+  0.4428108221536465,
+  0.7115054026542298
+ ],
+ "n_action_steps": 10,
+ "max_steps": 260,
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": true,
+   "steps": 163
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": true,
+   "steps": 136
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120721",
+   "seed": 1,
+   "success": true,
+   "steps": 108
+  },
+  {
+   "tag": "121107",
+   "seed": 1,
+   "success": true,
+   "steps": 114
+  },
+  {
+   "tag": "120855",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120111",
+   "seed": 1,
+   "success": true,
+   "steps": 184
+  },
+  {
+   "tag": "120721",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "121107",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120855",
+   "seed": 2,
+   "success": true,
+   "steps": 131
+  },
+  {
+   "tag": "120111",
+   "seed": 2,
+   "success": true,
+   "steps": 103
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": true,
+   "steps": 116
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114506",
+   "seed": 1,
+   "success": true,
+   "steps": 113
+  },
+  {
+   "tag": "114454",
+   "seed": 1,
+   "success": true,
+   "steps": 119
+  },
+  {
+   "tag": "120313",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "114506",
+   "seed": 2,
+   "success": true,
+   "steps": 113
+  },
+  {
+   "tag": "114454",
+   "seed": 2,
+   "success": true,
+   "steps": 124
+  },
+  {
+   "tag": "120313",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "120454",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "225932",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "230007",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "225720",
+   "seed": 0,
+   "success": true,
+   "steps": 102
+  },
+  {
+   "tag": "232018",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "225932",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "230007",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "225720",
+   "seed": 1,
+   "success": true,
+   "steps": 193
+  },
+  {
+   "tag": "232018",
+   "seed": 1,
+   "success": true,
+   "steps": 145
+  },
+  {
+   "tag": "225932",
+   "seed": 2,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "230007",
+   "seed": 2,
+   "success": true,
+   "steps": 114
+  },
+  {
+   "tag": "225720",
+   "seed": 2,
+   "success": true,
+   "steps": 114
+  },
+  {
+   "tag": "232018",
+   "seed": 2,
+   "success": true,
+   "steps": 108
+  },
+  {
+   "tag": "231935",
+   "seed": 0,
+   "success": true,
+   "steps": 120
+  },
+  {
+   "tag": "231530",
+   "seed": 0,
+   "success": true,
+   "steps": 120
+  },
+  {
+   "tag": "231555",
+   "seed": 0,
+   "success": true,
+   "steps": 120
+  },
+  {
+   "tag": "231754",
+   "seed": 0,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "231935",
+   "seed": 1,
+   "success": true,
+   "steps": 119
+  },
+  {
+   "tag": "231530",
+   "seed": 1,
+   "success": true,
+   "steps": 129
+  },
+  {
+   "tag": "231555",
+   "seed": 1,
+   "success": true,
+   "steps": 127
+  },
+  {
+   "tag": "231754",
+   "seed": 1,
+   "success": false,
+   "steps": 260
+  },
+  {
+   "tag": "231935",
+   "seed": 2,
+   "success": true,
+   "steps": 113
+  },
+  {
+   "tag": "231530",
+   "seed": 2,
+   "success": true,
+   "steps": 109
+  },
+  {
+   "tag": "231555",
+   "seed": 2,
+   "success": true,
+   "steps": 112
+  },
+  {
+   "tag": "231754",
+   "seed": 2,
+   "success": true,
+   "steps": 136
+  }
+ ]
+}

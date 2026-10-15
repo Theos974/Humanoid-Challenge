@@ -1,0 +1,126 @@
+{
+ "label": "vid_oracle_g1_same",
+ "path": "oracle",
+ "n": 16,
+ "k": 14,
+ "rate": 0.875,
+ "ci": [
+  0.6397666856325172,
+  0.9650232506629429
+ ],
+ "gated": true,
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": true,
+   "steps": 119,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": true,
+   "steps": 127,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": true,
+   "steps": 185,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": true,
+   "steps": 121,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": true,
+   "steps": 142,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": true,
+   "steps": 125,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": true,
+   "steps": 363,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 900,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "225932",
+   "seed": 0,
+   "success": true,
+   "steps": 149,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "230007",
+   "seed": 0,
+   "success": true,
+   "steps": 128,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "225720",
+   "seed": 0,
+   "success": true,
+   "steps": 170,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "232018",
+   "seed": 0,
+   "success": true,
+   "steps": 125,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231935",
+   "seed": 0,
+   "success": true,
+   "steps": 135,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231530",
+   "seed": 0,
+   "success": true,
+   "steps": 118,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231555",
+   "seed": 0,
+   "success": true,
+   "steps": 155,
+   "mean_target_err_cm": 0.0
+  },
+  {
+   "tag": "231754",
+   "seed": 0,
+   "success": false,
+   "steps": 900,
+   "mean_target_err_cm": 0.0
+  }
+ ]
+}

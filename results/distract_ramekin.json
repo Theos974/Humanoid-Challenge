@@ -1,0 +1,353 @@
+{
+ "label": "distract_ramekin",
+ "path": "/home/theo-hadji/humanoid/work/runs/cur40/checkpoints/last/pretrained_model",
+ "n": 48,
+ "k": 15,
+ "rate": 0.3125,
+ "ci": [
+  0.19945512167731494,
+  0.4533333725049633
+ ],
+ "n_action_steps": 10,
+ "max_steps": 260,
+ "prompt": "pick up the black bowl and place it on the plate",
+ "distractor": "glazed_rim_porcelain_ramekin:-0.05:-0.27",
+ "episodes": [
+  {
+   "tag": "120721",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "121107",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120855",
+   "seed": 0,
+   "success": true,
+   "steps": 117,
+   "distractor_max_move_m": 0.027
+  },
+  {
+   "tag": "120111",
+   "seed": 0,
+   "success": true,
+   "steps": 137,
+   "distractor_max_move_m": 0.013
+  },
+  {
+   "tag": "120721",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "121107",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120855",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120111",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120721",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "121107",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120855",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120111",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "114506",
+   "seed": 0,
+   "success": true,
+   "steps": 156,
+   "distractor_max_move_m": 0.024
+  },
+  {
+   "tag": "114454",
+   "seed": 0,
+   "success": true,
+   "steps": 176,
+   "distractor_max_move_m": 0.031
+  },
+  {
+   "tag": "120313",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120454",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "114506",
+   "seed": 1,
+   "success": true,
+   "steps": 166,
+   "distractor_max_move_m": 0.04
+  },
+  {
+   "tag": "114454",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120313",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120454",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "114506",
+   "seed": 2,
+   "success": true,
+   "steps": 173,
+   "distractor_max_move_m": 0.01
+  },
+  {
+   "tag": "114454",
+   "seed": 2,
+   "success": true,
+   "steps": 129,
+   "distractor_max_move_m": 0.028
+  },
+  {
+   "tag": "120313",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "120454",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "225932",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "230007",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "225720",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "232018",
+   "seed": 0,
+   "success": true,
+   "steps": 180,
+   "distractor_max_move_m": 0.028
+  },
+  {
+   "tag": "225932",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "230007",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "225720",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "232018",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "225932",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "230007",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "225720",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "232018",
+   "seed": 2,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231935",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231530",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231555",
+   "seed": 0,
+   "success": true,
+   "steps": 114,
+   "distractor_max_move_m": 0.027
+  },
+  {
+   "tag": "231754",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231935",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231530",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231555",
+   "seed": 1,
+   "success": true,
+   "steps": 149,
+   "distractor_max_move_m": 0.029
+  },
+  {
+   "tag": "231754",
+   "seed": 1,
+   "success": true,
+   "steps": 167,
+   "distractor_max_move_m": 0.025
+  },
+  {
+   "tag": "231935",
+   "seed": 2,
+   "success": true,
+   "steps": 202,
+   "distractor_max_move_m": 0.0
+  },
+  {
+   "tag": "231530",
+   "seed": 2,
+   "success": true,
+   "steps": 101,
+   "distractor_max_move_m": 0.03
+  },
+  {
+   "tag": "231555",
+   "seed": 2,
+   "success": true,
+   "steps": 117,
+   "distractor_max_move_m": 0.032
+  },
+  {
+   "tag": "231754",
+   "seed": 2,
+   "success": true,
+   "steps": 129,
+   "distractor_max_move_m": 0.043
+  }
+ ]
+}

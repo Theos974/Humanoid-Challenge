@@ -1,0 +1,465 @@
+{
+ "label": "grid_human",
+ "path": "/home/theo-hadji/humanoid/work/runs/h_all/checkpoints/last/pretrained_model",
+ "n": 64,
+ "k": 20,
+ "rate": 0.3125,
+ "ci": [
+  0.2123090950226574,
+  0.4339256635915262
+ ],
+ "n_action_steps": 10,
+ "max_steps": 260,
+ "prompt": "pick up the black bowl and place it on the plate",
+ "distractor": null,
+ "episodes": [
+  {
+   "tag": "g00",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g01",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g02",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g03",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g00",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g01",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g02",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g03",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g04",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g05",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g06",
+   "seed": 0,
+   "success": true,
+   "steps": 86,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g07",
+   "seed": 0,
+   "success": true,
+   "steps": 113,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g04",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g05",
+   "seed": 1,
+   "success": true,
+   "steps": 159,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g06",
+   "seed": 1,
+   "success": true,
+   "steps": 141,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g07",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g08",
+   "seed": 0,
+   "success": true,
+   "steps": 112,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g09",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g10",
+   "seed": 0,
+   "success": true,
+   "steps": 127,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g11",
+   "seed": 0,
+   "success": true,
+   "steps": 120,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g08",
+   "seed": 1,
+   "success": true,
+   "steps": 136,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g09",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g10",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g11",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g12",
+   "seed": 0,
+   "success": true,
+   "steps": 112,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g13",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g14",
+   "seed": 0,
+   "success": true,
+   "steps": 220,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g15",
+   "seed": 0,
+   "success": true,
+   "steps": 125,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g12",
+   "seed": 1,
+   "success": true,
+   "steps": 88,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g13",
+   "seed": 1,
+   "success": true,
+   "steps": 126,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g14",
+   "seed": 1,
+   "success": true,
+   "steps": 125,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g15",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g16",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g17",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g18",
+   "seed": 0,
+   "success": true,
+   "steps": 127,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g19",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g16",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g17",
+   "seed": 1,
+   "success": true,
+   "steps": 150,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g18",
+   "seed": 1,
+   "success": true,
+   "steps": 114,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g19",
+   "seed": 1,
+   "success": true,
+   "steps": 113,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g20",
+   "seed": 0,
+   "success": true,
+   "steps": 132,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g21",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g22",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g23",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g20",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g21",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g22",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g23",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g24",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g25",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g26",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g27",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g24",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g25",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g26",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g27",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g28",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g29",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g30",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g31",
+   "seed": 0,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g28",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g29",
+   "seed": 1,
+   "success": true,
+   "steps": 158,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g30",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  },
+  {
+   "tag": "g31",
+   "seed": 1,
+   "success": false,
+   "steps": 260,
+   "distractor_max_move_m": null
+  }
+ ]
+}
